@@ -2,8 +2,6 @@
 
 ![EntRAVE Banner](assets/banner.png)
 
-![EntRAVE Banner](assets/banner.png)
-
 **EntRAVE** is an Python tool to visualize an entity made of **members** 🔹 and **articulations** 🔗.
 
 ## Installation 📥

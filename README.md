@@ -35,9 +35,9 @@ Please make sure to update tests as appropriate.
 
 [More information](CONTRIBUTING.md)
 
-## Credits
+## Credits ℹ️
 
-Go on the [credits page](CREDITS.md)
+Go on the [credits page](CREDITS.md).
 
 ## License 📜
 

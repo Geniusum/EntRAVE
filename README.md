@@ -6,7 +6,7 @@
 
 ## Installation 📥
 
-**EntRAVE** isn't on PyPi, then choose a verison in the [`src/`](src/) folder and take the last version. Finally, copy the file at your project in a folder named [`entrave/`](entrave/) and import it.
+**EntRAVE** isn't on PyPi, then choose a verison in the [`entrave/`](entrave/) folder and take the last version. Finally, copy the file at your project in a folder named [`entrave/`](entrave/) and import it.
 
 ## Usage 🎯
 

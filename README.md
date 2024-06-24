@@ -35,6 +35,10 @@ Please make sure to update tests as appropriate.
 
 [More information](CONTRIBUTING.md)
 
+## Credits
+
+Go on the [credits page](CREDITS.md)
+
 ## License 📜
 
 [MIT](LICENSE.md)
